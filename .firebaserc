@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projet-iot-eafdc": {
+      "hosting": {
+        "iot_project": [
+          "projet-iot-eafdc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projet-iot-eafdc"
+  }
+}
